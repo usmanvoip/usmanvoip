@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usmanvoip
-- 👀 I’m interested in Voip and DevOps
-- 🌱 I’m currently learning Jenkins, Docker and Kubernetes
+- 👀 I’m interested in VoIP and DevOps
+- 🌱 I’m currently learning Freeswitch, Opensips, Jenkins, Docker and Kubernetes
 - 📫 If you have any question please reach me at musmanvoip@gmail.com
 
 <!---
